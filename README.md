@@ -1,4 +1,4 @@
-# 📝 Django Task Management System
+# 📝 Task Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
